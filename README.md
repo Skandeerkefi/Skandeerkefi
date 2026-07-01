@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Skander Kefi</h1>
+<h1 align="center">Hi 👋 I'm Skander Kefi</h1>
 
 <h3 align="center">
-Full-Stack Developer | MERN Stack | Next.js | AI Integration
+Full-Stack Developer • MERN Stack • Next.js • AI Integration
 </h3>
 
 <p align="center">
-I build modern, scalable web applications with a strong focus on performance, clean architecture, and user experience.
+Building scalable web applications with modern technologies.
 </p>
 
 <p align="center">
-<a href="https://kefiportfolio.vercel.app/">Portfolio</a> •
+<a href="https://kefiportfolio.vercel.app">🌐 Portfolio</a> •
 <a href="https://www.linkedin.com/in/skander-kefi/">LinkedIn</a> •
 <a href="mailto:Skanderkefi88@gmail.com">Email</a>
 </p>
@@ -18,86 +18,98 @@ I build modern, scalable web applications with a strong focus on performance, cl
 
 ## 👨‍💻 About Me
 
-I'm a Full-Stack Developer from Tunisia with 2+ years of experience developing production-ready web applications for international clients.
+💻 Full-Stack Developer with **2+ years** of experience building production-ready applications.
 
-I enjoy building complete products—from designing responsive user interfaces to creating scalable backend architectures and deploying applications to the cloud.
+🚀 I specialize in creating scalable, responsive, and user-focused web applications using modern JavaScript technologies.
 
-Currently interested in:
-
-- 🚀 SaaS Platforms
-- 🤖 AI-powered applications
-- 💰 FinTech & Crypto
-- 🌍 Remote opportunities
-- ☁️ Cloud & DevOps
+🌍 I'm currently available for **Freelance** and **Remote Full-Time** opportunities.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Current Focus
+
+- 🔨 Building **CryptoEscrow**
+- 🤖 AI-powered Web Applications
+- ☁️ Cloud Deployment & Docker
+- ⚡ High-performance Full-Stack Applications
+
+---
+
+# 🛠 Tech Stack
 
 ### Frontend
 
-![React](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css" />
+</p>
 
 ### Backend
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### Databases
+### Database
 
-![Database](https://skillicons.dev/icons?i=mongodb,postgres,redis)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
 
-### DevOps
+### DevOps & Tools
 
-![DevOps](https://skillicons.dev/icons?i=docker,aws,git,github)
-
-### Tools
-
-![Tools](https://skillicons.dev/icons?i=vscode,postman,npm)
-
----
-
-# 🚀 Featured Projects
-
-## 🔹 Kaeryka
-
-A modern full-stack platform built with React, Node.js, Express and PostgreSQL featuring authentication, scalable architecture and responsive UI.
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman" />
+</p>
 
 ---
 
-## 🔹 KaerykaDATA
+# ⭐ Featured Projects
 
-Data management platform designed for handling business information with performance and scalability in mind.
+## 🏢 Kaeryka
+
+A modern business platform focused on performance, scalability, and clean architecture.
+
+**Tech**
+- React
+- Node.js
+- Express
+- PostgreSQL
 
 ---
 
-## 🔹 JobLink
+## 📊 KaerykaDATA
 
-A job platform connecting employers and candidates through an intuitive and responsive interface.
+Enterprise data management platform with powerful dashboards and business reporting.
 
 ---
 
-## 🔹 CryptoEscrow (In Progress)
+## 💼 JobLink
 
-A secure cryptocurrency escrow platform built using the MERN Stack.
+A responsive job portal connecting recruiters and job seekers.
 
-Features:
+---
+
+## 🔐 CryptoEscrow *(Currently Building)*
+
+Secure cryptocurrency escrow platform built with the MERN Stack.
+
+Features
 
 - Wallet Authentication
-- Secure Escrow
-- Smart Transaction Workflow
-- Modern Dashboard
+- Secure Transactions
+- Admin Dashboard
+- Modern UI
+- REST API
 
 ---
 
 ## 🌐 Portfolio
 
-Check out my latest work:
-
-### 👉 https://kefiportfolio.vercel.app/
+### https://kefiportfolio.vercel.app
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
 
@@ -117,7 +129,7 @@ Check out my latest work:
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skandeerkefi&theme=tokyo-night"/>
@@ -125,27 +137,27 @@ Check out my latest work:
 
 ---
 
-# 💼 What I Work With
+# 💼 Professional Skills
 
-✔ Full-Stack Web Development
+✅ Full-Stack Development
 
-✔ REST APIs
+✅ REST API Development
 
-✔ Authentication & Security
+✅ Authentication & Authorization
 
-✔ Real-Time Applications
+✅ AI API Integration
 
-✔ AI Integration (OpenAI / Anthropic APIs)
+✅ Responsive Design
 
-✔ Dockerized Applications
+✅ Docker & Cloud Deployment
 
-✔ Responsive UI/UX
+✅ PostgreSQL & MongoDB
 
-✔ Agile Development
+✅ Agile Development
 
 ---
 
-# 📫 Contact Me
+# 📫 Contact
 
 📧 **Email**
 
@@ -153,7 +165,7 @@ Skanderkefi88@gmail.com
 
 🌐 **Portfolio**
 
-https://kefiportfolio.vercel.app/
+https://kefiportfolio.vercel.app
 
 💼 **LinkedIn**
 
@@ -165,6 +177,8 @@ https://github.com/Skandeerkefi
 
 ---
 
-> *"Building software that solves real-world problems through clean code, thoughtful design, and continuous learning."*
+<p align="center">
 
-⭐ Thanks for visiting my profile!
+> *"Code. Learn. Build. Repeat."*
+
+</p>
