@@ -1,162 +1,128 @@
-<h1 align="center">Hi 👋 I'm Skander Kefi</h1>
-<h3 align="center">
-Full-Stack Developer • MERN Stack • Next.js • AI Integration
-</h3>
-<p align="center">
-Building scalable web applications with modern technologies.
-</p>
-<p align="center">
-<a href="https://kefiportfolio.vercel.app">🌐 Portfolio</a> •
-<a href="https://www.linkedin.com/in/skander-kefi/">LinkedIn</a> •
-<a href="mailto:Skanderkefi88@gmail.com">Email</a>
-</p>
+<div align="center">
 
----
+# Hi, I'm Skander Kefi 👋
+
+### Full-Stack Developer | MERN Stack · Next.js · AI Integration
+
+Building scalable, production-ready web applications with modern JavaScript technologies.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kefiportfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skander-kefi/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Skanderkefi88@gmail.com)
+
+</div>
+
+<br>
 
 ## 👨‍💻 About Me
 
-💻 Full-Stack Developer with **2+ years** of experience building production-ready applications.
+- 💻 Full-Stack Developer with **2+ years** of experience shipping production applications
+- 🚀 Specialized in scalable, responsive, and user-focused web apps
+- 🌍 Currently open to **Freelance** and **Remote Full-Time** opportunities
+- 🔨 Currently building **CryptoEscrow** — a secure MERN-based crypto escrow platform
 
-🚀 I specialize in creating scalable, responsive, and user-focused web applications using modern JavaScript technologies.
-
-🌍 I'm currently available for **Freelance** and **Remote Full-Time** opportunities.
-
----
+<br>
 
 ## 🚀 Current Focus
 
-- 🔨 Building **CryptoEscrow**
-- 🤖 AI-powered Web Applications
-- ☁️ Cloud Deployment & Docker
-- ⚡ High-performance Full-Stack Applications
+| | |
+|---|---|
+| 🔐 | Building **CryptoEscrow** |
+| 🤖 | AI-powered web applications |
+| ☁️ | Cloud deployment & Docker |
+| ⚡ | High-performance full-stack architecture |
 
----
+<br>
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### Frontend
-<p>
+**Frontend**
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css" />
-</p>
 
-### Backend
-<p>
+**Backend**
+
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
 
-### Database
-<p>
+**Database**
+
 <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
-</p>
 
-### DevOps & Tools
-<p>
+**DevOps & Tools**
+
 <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman" />
-</p>
+
+<br>
+
+## ⭐ Featured Projects
+
+### 🔐 [CryptoEscrow](#) *(In Progress)*
+Secure cryptocurrency escrow platform built with the MERN stack.
+- Wallet authentication
+- Secure transaction handling
+- Admin dashboard
+- REST API
+- Modern, responsive UI
+
+**Stack:** React · Node.js · Express · MongoDB
 
 ---
 
-# ⭐ Featured Projects
+### 🏢 [Kaeryka](#)
+Modern business platform focused on performance, scalability, and clean architecture.
 
-## 🏢 Kaeryka
-A modern business platform focused on performance, scalability, and clean architecture.
-
-**Tech**
-- React
-- Node.js
-- Express
-- PostgreSQL
+**Stack:** React · Node.js · Express · PostgreSQL
 
 ---
 
-## 📊 KaerykaDATA
+### 📊 [KaerykaDATA](#)
 Enterprise data management platform with powerful dashboards and business reporting.
 
 ---
 
-## 💼 JobLink
+### 💼 [JobLink](#)
 A responsive job portal connecting recruiters and job seekers.
 
----
+> 💡 Replace the `#` links above with your actual GitHub repo URLs so visitors can click straight through.
 
-## 🔐 CryptoEscrow *(Currently Building)*
-Secure cryptocurrency escrow platform built with the MERN Stack.
+<br>
 
-Features
-- Wallet Authentication
-- Secure Transactions
-- Admin Dashboard
-- Modern UI
-- REST API
+## 📈 GitHub Stats
 
----
+<div align="center">
 
-## 🌐 Portfolio
-### https://kefiportfolio.vercel.app
-
----
-
-# 📈 GitHub Stats
-<p align="center">
-<img height="170" src="https://github-readme-stats-c9gyzsmpi-skanderkefi88-8456s-projects.vercel.app/api?username=Skandeerkefi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-c9gyzsmpi-skanderkefi88-8456s-projects.vercel.app/api?username=Skandeerkefi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="170" src="https://github-readme-stats-c9gyzsmpi-skanderkefi88-8456s-projects.vercel.app/api/top-langs/?username=Skandeerkefi&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
----
-
-# 🔥 GitHub Streak
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=Skandeerkefi&theme=tokyonight&hide_border=true"/>
-</p>
 
-<!-- TODO: replace with your own deployment once you fork + deploy
-     https://github.com/DenverCoder1/github-readme-streak-stats
-     then swap the domain above from streak-stats.demolab.com
-     to your-instance.vercel.app -->
-
----
-
-# 📊 Contribution Graph
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skandeerkefi&theme=tokyo-night"/>
-</p>
 
-<!-- TODO: replace with your own deployment once you fork + deploy
-     https://github.com/Ashutosh00710/github-readme-activity-graph
-     then swap the domain above from github-readme-activity-graph.vercel.app
-     to your-instance.vercel.app -->
+</div>
 
----
+<br>
 
-# 💼 Professional Skills
+## 💼 Professional Skills
 
-✅ Full-Stack Development
-✅ REST API Development
-✅ Authentication & Authorization
-✅ AI API Integration
-✅ Responsive Design
-✅ Docker & Cloud Deployment
-✅ PostgreSQL & MongoDB
-✅ Agile Development
+`Full-Stack Development` `REST API Development` `Authentication & Authorization` `AI API Integration` `Responsive Design` `Docker & Cloud Deployment` `PostgreSQL & MongoDB` `Agile Development`
 
----
+<br>
 
-# 📫 Contact
+## 📫 Get In Touch
 
-📧 **Email**
-Skanderkefi88@gmail.com
+<div align="center">
 
-🌐 **Portfolio**
-https://kefiportfolio.vercel.app
+📧 **Email:** [Skanderkefi88@gmail.com](mailto:Skanderkefi88@gmail.com)
+🌐 **Portfolio:** [kefiportfolio.vercel.app](https://kefiportfolio.vercel.app)
+💼 **LinkedIn:** [linkedin.com/in/skander-kefi](https://www.linkedin.com/in/skander-kefi/)
+🐙 **GitHub:** [@Skandeerkefi](https://github.com/Skandeerkefi)
 
-💼 **LinkedIn**
-https://www.linkedin.com/in/skander-kefi/
+</div>
 
-🐙 **GitHub**
-https://github.com/Skandeerkefi
+<br>
 
----
+<div align="center">
 
-<p align="center">
-> *"Code. Learn. Build. Repeat."*
-</p>
+*"Code. Learn. Build. Repeat."*
+
+</div>
