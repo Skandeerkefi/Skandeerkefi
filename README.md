@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋 I'm Skander Kefi</h1>
-
 <h3 align="center">
 Full-Stack Developer • MERN Stack • Next.js • AI Integration
 </h3>
-
 <p align="center">
 Building scalable web applications with modern technologies.
 </p>
-
 <p align="center">
 <a href="https://kefiportfolio.vercel.app">🌐 Portfolio</a> •
 <a href="https://www.linkedin.com/in/skander-kefi/">LinkedIn</a> •
@@ -38,25 +35,21 @@ Building scalable web applications with modern technologies.
 # 🛠 Tech Stack
 
 ### Frontend
-
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css" />
 </p>
 
 ### Backend
-
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database
-
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 </p>
 
 ### DevOps & Tools
-
 <p>
 <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman" />
 </p>
@@ -66,7 +59,6 @@ Building scalable web applications with modern technologies.
 # ⭐ Featured Projects
 
 ## 🏢 Kaeryka
-
 A modern business platform focused on performance, scalability, and clean architecture.
 
 **Tech**
@@ -78,23 +70,19 @@ A modern business platform focused on performance, scalability, and clean archit
 ---
 
 ## 📊 KaerykaDATA
-
 Enterprise data management platform with powerful dashboards and business reporting.
 
 ---
 
 ## 💼 JobLink
-
 A responsive job portal connecting recruiters and job seekers.
 
 ---
 
 ## 🔐 CryptoEscrow *(Currently Building)*
-
 Secure cryptocurrency escrow platform built with the MERN Stack.
 
 Features
-
 - Wallet Authentication
 - Secure Transactions
 - Admin Dashboard
@@ -104,55 +92,51 @@ Features
 ---
 
 ## 🌐 Portfolio
-
 ### https://kefiportfolio.vercel.app
 
 ---
 
 # 📈 GitHub Stats
-
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Skandeerkefi&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skandeerkefi&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats-c9gyzsmpi-skanderkefi88-8456s-projects.vercel.app/api?username=Skandeerkefi&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-c9gyzsmpi-skanderkefi88-8456s-projects.vercel.app/api/top-langs/?username=Skandeerkefi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 # 🔥 GitHub Streak
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Skandeerkefi&theme=tokyonight&hide_border=true"/>
 </p>
 
+<!-- TODO: replace with your own deployment once you fork + deploy
+     https://github.com/DenverCoder1/github-readme-streak-stats
+     then swap the domain above from streak-stats.demolab.com
+     to your-instance.vercel.app -->
+
 ---
 
 # 📊 Contribution Graph
-
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skandeerkefi&theme=tokyo-night"/>
 </p>
+
+<!-- TODO: replace with your own deployment once you fork + deploy
+     https://github.com/Ashutosh00710/github-readme-activity-graph
+     then swap the domain above from github-readme-activity-graph.vercel.app
+     to your-instance.vercel.app -->
 
 ---
 
 # 💼 Professional Skills
 
 ✅ Full-Stack Development
-
 ✅ REST API Development
-
 ✅ Authentication & Authorization
-
 ✅ AI API Integration
-
 ✅ Responsive Design
-
 ✅ Docker & Cloud Deployment
-
 ✅ PostgreSQL & MongoDB
-
 ✅ Agile Development
 
 ---
@@ -160,25 +144,19 @@ Features
 # 📫 Contact
 
 📧 **Email**
-
 Skanderkefi88@gmail.com
 
 🌐 **Portfolio**
-
 https://kefiportfolio.vercel.app
 
 💼 **LinkedIn**
-
 https://www.linkedin.com/in/skander-kefi/
 
 🐙 **GitHub**
-
 https://github.com/Skandeerkefi
 
 ---
 
 <p align="center">
-
 > *"Code. Learn. Build. Repeat."*
-
 </p>
